@@ -1,0 +1,14 @@
+my path:
+/home/jbrooks/anaconda3/envs/principe/lib/python3.6/site-packages/gym_super_mario_bros/_roms/
+rename whatever rom you are using to 'super-mario-bros.nes'
+helps to make copies of everything first.
+
+eg: to use fences
+copy base rom: super-mario-bros.nes : super-mario-bros(copy).nes
+copy fences: super-mario-bros_fences.nes : super-mario-bros_fences(copy).nes
+
+delete super-mario-bros.nes
+rename fence copy to super-mario-bros.nes
+super-mario-bros_fences(copy).nes -> super-mario-bros.nes
+
+it helps to render env in order to make sure.
