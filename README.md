@@ -7,3 +7,9 @@ step1 create the dual memory, run script dual_detector_creat.py, this will gener
 step2 test the performance, run script model_test_dualmemory.py, this will load Dual_Memory.pickle and figure_patch.pickle and make decision 
       with either the dual memory or trajectory RL.
       
+<p align="center">
+
+  <img src="entire_image.gif">
+
+</p>
+      
