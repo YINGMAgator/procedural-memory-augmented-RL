@@ -10,6 +10,7 @@ step2 test the performance, run script model_test_dualmemory.py, this will load 
 <p align="center">
 
   <img src="entire_image.gif">
+  <img src="inference.gif">
 
 </p>
       
